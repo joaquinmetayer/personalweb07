@@ -1,0 +1,21 @@
+* {
+  margin: 10px 0;
+  color: #000;
+  filter: grayscale(1);
+  user-select: none;
+}
+body {
+  font-family: sans-serif;
+  padding: 0px 20px;
+  max-width: 600px;
+}
+video {
+  width: 100%;
+  filter: contrast(10);
+}
+a{
+  font-weight: bold;
+}
+h1{
+  font-size: 35px;
+}
